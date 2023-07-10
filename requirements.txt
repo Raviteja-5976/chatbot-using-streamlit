@@ -1,0 +1,8 @@
+#REQUIRED PACKAGES
+
+openai
+
+# To install the package Run: "pip install openai " Command in your terminal
+
+streamlit
+# To install the package Run: "pip install streamlit " Command in your terminal
