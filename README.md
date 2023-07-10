@@ -37,5 +37,5 @@ This project shows how to create a chatbot using the Streamlit package in Python
 4. Select new app
 5. Select your repository and file and launch the app.
 
-
+ ## OPEN FOR SUGGESTIONS TO IMPROVE THE CODE
  ## ALSO PLEASE GIVE A STAR TO MY REPOSITORY 😅😅🙏
